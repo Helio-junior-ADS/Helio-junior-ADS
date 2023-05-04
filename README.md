@@ -1,6 +1,6 @@
 ### Olá! Eu sou Hélio Júnior.
 
-- 🔭 Hoje trabalho com Fullstack
+- 🔭 Hoje estudo para ser um Dev Fullstack.
 - 🌱 Estudando React.js, Node.js e Typescript
 
 
